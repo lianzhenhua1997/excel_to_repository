@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="beautyeye_lnf">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/beautyeye_lnf.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jxl-2.6.12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/mysql-connector-java-8.0.28.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
